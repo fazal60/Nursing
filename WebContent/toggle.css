@@ -1,0 +1,14 @@
+div.toggler { background:lightblue; cursor:pointer; }
+div.toggler div { display:none; }
+.fixed-size-square {
+    display: table;
+    width: 290px;
+    height: 190px;
+    background: #4679BD;
+}
+.fixed-size-square span {
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    color: white
+}
